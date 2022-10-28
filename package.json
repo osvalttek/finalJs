@@ -1,0 +1,18 @@
+{
+  "name": "hackers",
+  "version": "1.0.0",
+  "description": "tests para material de preparación de hackers",
+  "main": "index.js",
+  "scripts": {
+    "test": "testem"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atralice/deepDiveJs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testem": "^1.18.4"
+  }
+}
